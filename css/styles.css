@@ -119,6 +119,7 @@ body {
 	font-family: "Roboto";
 	font-style: normal;
 	cursor: pointer;
+	letter-spacing: 0.06em;
 }
 
 /* Skills section*/
@@ -162,7 +163,6 @@ body {
 
 .team-item-text {
 	color: var(--secondary-text-color);
-	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.2;
 	letter-spacing: 0.03em;
